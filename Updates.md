@@ -1,2 +1,2 @@
-# Addons Coming in the Not-too-distant Future
-I am working so that users will be able to access the base maps in the respository, instead of relying on an outside source. Please bare with me as I try to make this happen with my limited time. Thank you.
+# Base Maps Have Been Added!
+All the base maps have been added! After a good amount of time, all my base maps have been added. Thanks for waiting!
