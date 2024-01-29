@@ -14,5 +14,6 @@ The "Multilivery Examples" Album, (which is a sub-album under the "Base maps" al
 **Embraer ERJ-145 Note**
 The ERJ-145 isn't working with custom liveries right now. Feel free to create an issue on the Main Multiliveries page.
 
-<img src="https://i.ibb.co/4pCbZD4/Pawser-Aviation.png" alt="Pawser-Aviation.png"
+![image](https://github.com/thedolphinsfan1/Pawser-Aviation-Liveries-for-Geo-FS-Multiliveries/assets/111387425/5a548bb5-39d6-47d3-951b-428ba98632cf)
+
 
